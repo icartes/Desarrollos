@@ -12,6 +12,7 @@ namespace WebApplication1.Controllers
         {
             return View();
             //prueba de conecion
+            // paso la wea
 
         }
 
